@@ -1,0 +1,17 @@
+p
+{
+color:red;
+
+}
+
+body{
+    text-align: center;
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(galaxy.webp);
+    margin-top: 150px;
+}
+
+h4{
+    color:paleturquoise ;
+}
